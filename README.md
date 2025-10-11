@@ -51,7 +51,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&theme=tokyo-night&custom_title=Valeri%20Gokadze's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9" /></a>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&theme=tokyo-night&custom_title=Karthikeyan's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9" /></a>
   <br />
 </details>
 
