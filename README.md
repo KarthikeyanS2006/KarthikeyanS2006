@@ -1,199 +1,60 @@
-<div align="center">
-  
-# 👋 Hi there! I'm Karthikeyan S.
-
-### 🚀 Software Developer | 🎓 BCom CA Student | 💡 Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Flutter+Enthusiast;AI+%26+Cybersecurity+Explorer;Building+Tomorrow's+Solutions" alt="Typing SVG" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&color=orange&style=flat-square&label=Profile+Views)](https://github.com/KarthikeyanS2006)
-[![GitHub followers](https://img.shields.io/github/followers/KarthikeyanS2006?style=social)](https://github.com/KarthikeyanS2006)
-[![GitHub stars](https://img.shields.io/github/stars/KarthikeyanS2006?style=social)](https://github.com/KarthikeyanS2006)
-
-</div>
-
----
-
-## 🌟 About Me
-
-I'm a passionate **software developer** and **third-year BCom CA student** based in **📍 Manamadurai, Tamil Nadu, India**. I blend academic excellence with hands-on development, building innovative projects that solve real-world problems. My mission is to create meaningful digital experiences through clean code and intuitive design.
-
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frameworks & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![InfinityFree](https://img.shields.io/badge/InfinityFree-FF8C00?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarthikeyanS2006&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF" alt="Karthikeyan's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanS2006&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikeyanS2006&theme=react&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&bg_color=0D1117&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌐 The "Keyan" Ecosystem
-*A comprehensive suite of interconnected web services*
-
-</div>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔍 **Keyan AI** | Custom search engine with advanced algorithms | PHP, JavaScript, API Integration |
-| 📧 **Keyan Mail** | Full-featured email platform with authentication | PHP, MySQL, Firebase |
-| 🎵 **Keyan Music** | Music streaming platform with playlist features | PHP, JavaScript, MySQL |
-| 🎛️ **Keyan Groups** | Central dashboard connecting all Keyan services | PHP, SSO Integration |
-| 📁 **Keyan FTP** | Secure file transfer and management service | PHP, InfinityFree Hosting |
-
-<div align="center">
-
-### 🏫 Educational Solutions
-
-</div>
-
-- **🎓 College Management System**: Comprehensive portal with faculty management, department pages, student applications, and notifications (Flutter + Firebase)
-- **📚 Student Focus App**: Goal tracking, Pomodoro timers, streak management, and AI coaching for students
-- **📋 UMIS-Inspired Platform**: Complete student data and activity management system
-
-<div align="center">
-
-### 📱 Mobile Applications
-
-</div>
-
-- **✅ Task Manager**: Native Android app with alarms, image attachments, and SQLite offline storage
-- **⏱️ Timer App**: Customizable countdown timer with clean UI/UX
-- **🎶 Music Search Tool**: ViMusic-inspired search using JavaScript and ytmusicapi
-
----
-
-## 🎨 Design Philosophy
-
-> **"Clean Code, Beautiful Design, Seamless Experience"**
-
-I prioritize:
-- ✨ **Mobile-first** responsive designs
-- 🎨 Signature **orange accent** color schemes
-- 🚀 **Professional** and **intuitive** UI/UX
-- 💡 **Unique layouts** that stand out from the crowd
-
----
-
-## 🌱 Currently Exploring
-
-- 🔐 **Cybersecurity Fundamentals** - Building secure applications
-- 🤖 **AI & Search Engine Development** - Creating intelligent systems
-- 🎯 **Prompt Engineering** - Optimizing AI model interactions
-- 🏗️ **Backend & System Design** - Architecting scalable solutions
-- 🚗 **Android Auto Development** - Exploring automotive tech
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Issues,Followers,Stars)
-
-</div>
-
-- 🎓 Third-year BCom CA student balancing academics and development
-- 💻 Built 10+ interconnected web applications and services
-- 🚀 Developed cross-platform mobile apps with Flutter
-- 🌐 Active contributor to personal projects on GitHub
-- 🎨 Designed unique UI/UX experiences with signature orange aesthetics
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on innovative projects, discuss tech, or just chat about code! Feel free to reach out:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarthikeyanS2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyan.s.jd2005@gmail.com)
-
-**💬 Open for:**
-- 🤝 Collaboration on open-source projects
-- 💡 Innovative ideas and discussions
-- 🎓 Learning opportunities and mentorship
-- 🚀 Freelance and consulting work
-
-</div>
+<div align="center"> <img src="./assets/img/header.png"> </div>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+[![GitHub followers](https://img.shields.io/github/followers/gokadzev?logo=GitHub&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gokadzev?logo=github&color=2DD4B9&&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🔗 Connect with me:
+
+[![WebPage](https://img.shields.io/badge/WebPage-7cebf5?color=2DD4B9&style=for-the-badge&logo=data:image/png;base64,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&logoColor=black)](https://KarthikeyanS2006.github.io/) [![Linkedin](https://img.shields.io/badge/linkedin-7cebf5?color=2DD4B9&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/KarthikeyanS2006/)
+
+<br />
+
+![developing](https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif)
+
+## 🛠️ Languages and Tools:
+
+<br />
+
+![HTML5](https://user-images.githubusercontent.com/79704324/229188830-f442a259-1ee1-45cb-962c-54b8d102d1cb.png)
+![JavaScript](https://user-images.githubusercontent.com/79704324/229189011-9af71164-dc50-4f40-8283-0b64b522ac00.png)
+![CSS3](https://user-images.githubusercontent.com/79704324/229188522-631f8e71-aff0-47d4-8177-658a2e62190e.png)
+![Sass](https://user-images.githubusercontent.com/79704324/229192211-c12e66ce-6764-4338-9322-8c50b8eec223.png)
+![TypeScript](https://user-images.githubusercontent.com/79704324/229195304-802e9b51-1480-4b2f-b589-edf8b4b21b58.svg)
+![Bootstrap](https://user-images.githubusercontent.com/79704324/229193933-ccfb6478-fbba-4942-b58e-f014558695bd.png)
+![Angular](https://user-images.githubusercontent.com/79704324/229196549-5f177c0e-0af3-4845-9303-f2fa22bf8ab0.png)
+![Flutter](https://user-images.githubusercontent.com/79704324/229192489-ace13880-4127-494f-a6c9-419f9ec9bf7c.png)
+![Python](https://user-images.githubusercontent.com/79704324/229194337-4aabb393-ed4b-41ea-8d22-df3e74af38d9.png)
+![Git](https://user-images.githubusercontent.com/79704324/229192648-b9caade7-c1db-4ea2-b4db-5df39f3a8cef.png)
+![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
+
+<br />
+
+## 📊 Github Stats (Expand to View)
+
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+    <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
+  <br />
+</details>
+
+<details>
+  <summary><b>🔥 GitHub Streak</b></summary>
+  <br/>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokadzev&theme=dark&ring=2DD4B9&fire=2DD4B9&stroke=2DD4B9&currStreakLabel=2DD4B9&border=2DD4B9" /></a>
+  <br />
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&theme=tokyo-night&custom_title=Valeri%20Gokadze's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9" /></a>
+  <br />
+</details>
+
+<br />
 
 ---
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarthikeyanS2006/KarthikeyanS2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarthikeyanS2006/KarthikeyanS2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KarthikeyanS2006/KarthikeyanS2006/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&animation=twinkling" width="100%"/>
-
-**✨ "Building for a better tomorrow, one line of code at a time." ✨**
-
-⭐ **If you like my projects, consider starring them!** ⭐
-
-<sub>Last Updated: October 2025 | Made with 💙 and lots of ☕</sub>
-
-</div>
