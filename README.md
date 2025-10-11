@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/gokadzev?logo=GitHub&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gokadzev?logo=github&color=2DD4B9&&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006)
+[![GitHub followers](https://img.shields.io/github/followers/KarthikeyanS2006?logo=GitHub&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/KarthikeyanS2006?logo=github&color=2DD4B9&&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=2DD4B9&style=for-the-badge)](https://github.com/KarthikeyanS2006)
 
 ## 🔗 Connect with me:
 
@@ -37,21 +37,21 @@
 <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-    <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
+    <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
   <br />
 </details>
 
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
-   <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokadzev&theme=dark&ring=2DD4B9&fire=2DD4B9&stroke=2DD4B9&currStreakLabel=2DD4B9&border=2DD4B9" /></a>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=KarthikeyanS2006&theme=dark&ring=2DD4B9&fire=2DD4B9&stroke=2DD4B9&currStreakLabel=2DD4B9&border=2DD4B9" /></a>
   <br />
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/KarthikeyanS2006"><img alt="Valeri Gokadze's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gokadzev&theme=tokyo-night&custom_title=Valeri%20Gokadze's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9" /></a>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&theme=tokyo-night&custom_title=Valeri%20Gokadze's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9" /></a>
   <br />
 </details>
 
