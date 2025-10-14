@@ -1,6 +1,4 @@
-<div align="center"> <img src="./assets/img/header.png"> </div>
 
----
 
 <div align="center">
 
