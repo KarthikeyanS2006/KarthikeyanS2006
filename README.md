@@ -19,7 +19,6 @@
 ![HTML5](https://user-images.githubusercontent.com/79704324/229188830-f442a259-1ee1-45cb-962c-54b8d102d1cb.png)
 ![JavaScript](https://user-images.githubusercontent.com/79704324/229189011-9af71164-dc50-4f40-8283-0b64b522ac00.png)
 ![CSS3](https://user-images.githubusercontent.com/79704324/229188522-631f8e71-aff0-47d4-8177-658a2e62190e.png)
-![Sass](https://user-images.githubusercontent.com/79704324/229192211-c12e66ce-6764-4338-9322-8c50b8eec223.png)
 ![TypeScript](https://user-images.githubusercontent.com/79704324/229195304-802e9b51-1480-4b2f-b589-edf8b4b21b58.svg)
 ![Bootstrap](https://user-images.githubusercontent.com/79704324/229193933-ccfb6478-fbba-4942-b58e-f014558695bd.png)
 ![Angular](https://user-images.githubusercontent.com/79704324/229196549-5f177c0e-0af3-4845-9303-f2fa22bf8ab0.png)
@@ -35,7 +34,7 @@
 <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-    <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
+    <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=light&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
   <br />
 </details>
 
