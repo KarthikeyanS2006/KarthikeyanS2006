@@ -34,7 +34,7 @@
 <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-    <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=light&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
+    <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=white&show_icons=true&hide=issues&locale=en&title_color=2DD4B9&icon_color=2DD4B9&text_color=2DD4B9" height="192px"/></a>
   <br />
 </details>
 
