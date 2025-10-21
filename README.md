@@ -13,24 +13,27 @@
 ![developing](https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif)
 ---
 <br>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
+ ---
+ <br>
+
+ <p align= "center"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="KarthikeyanS2006" /></p>
 
 ## 🛠️ Languages and Tools:
 
 <br />
 
-![HTML5](https://user-images.githubusercontent.com/79704324/229188830-f442a259-1ee1-45cb-962c-54b8d102d1cb.png)
-![JavaScript](https://user-images.githubusercontent.com/79704324/229189011-9af71164-dc50-4f40-8283-0b64b522ac00.png)
-![CSS3](https://user-images.githubusercontent.com/79704324/229188522-631f8e71-aff0-47d4-8177-658a2e62190e.png)
-![TypeScript](https://user-images.githubusercontent.com/79704324/229195304-802e9b51-1480-4b2f-b589-edf8b4b21b58.svg)
-![Bootstrap](https://user-images.githubusercontent.com/79704324/229193933-ccfb6478-fbba-4942-b58e-f014558695bd.png)
-![Angular](https://user-images.githubusercontent.com/79704324/229196549-5f177c0e-0af3-4845-9303-f2fa22bf8ab0.png)
-![Flutter](https://user-images.githubusercontent.com/79704324/229192489-ace13880-4127-494f-a6c9-419f9ec9bf7c.png)
-![Python](https://user-images.githubusercontent.com/79704324/229194337-4aabb393-ed4b-41ea-8d22-df3e74af38d9.png)
-![Git](https://user-images.githubusercontent.com/79704324/229192648-b9caade7-c1db-4ea2-b4db-5df39f3a8cef.png)
-![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
+<br>
 
-<br />
-<p align= "center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="githubsaveme" /></p>
+<p align="centre"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</p>
+
 
 ## 📊 Github Stats (Expand to View)
 
@@ -60,6 +63,4 @@
 <br />
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
- ---
- <br>
+
