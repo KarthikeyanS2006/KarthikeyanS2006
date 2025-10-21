@@ -13,7 +13,6 @@
 ![developing](https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif)
 ---
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
 
 ## 🛠️ Languages and Tools:
 
@@ -31,6 +30,7 @@
 ![VS Code](https://user-images.githubusercontent.com/79704324/229194630-4aea45b4-dae4-40ac-8579-28dc015b0f8a.png)
 
 <br />
+<p align= "center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="githubsaveme" /></p>
 
 ## 📊 Github Stats (Expand to View)
 
@@ -38,7 +38,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
     <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=FF6B35&icon_color=2DD4B9&text_color=FF6B35" height="192px"/></a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="githubsaveme" /></p>
+
 
   <br />
 </details>
@@ -60,3 +60,6 @@
 <br />
 
 ---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
+ ---
+ <br>
