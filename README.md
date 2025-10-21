@@ -11,6 +11,9 @@
 <br />
 
 ![developing](https://user-images.githubusercontent.com/79704324/215431896-5c0dfc34-9ad7-4e18-a839-7faec663c6c7.gif)
+---
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
 
 ## 🛠️ Languages and Tools:
 
