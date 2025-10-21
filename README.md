@@ -38,6 +38,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
     <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan S Profile Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=KarthikeyanS2006&theme=dark&show_icons=true&hide=issues&locale=en&title_color=FF6B35&icon_color=2DD4B9&text_color=FF6B35" height="192px"/></a>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="githubsaveme" /></p>
+
   <br />
 </details>
 
