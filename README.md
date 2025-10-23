@@ -14,10 +14,24 @@
 ---
 <br>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikeyanS2006" alt="KarthikeyanS2006" /></a> </p>
- ---
+  ---
  <br>
 
  <p align= "center"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="KarthikeyanS2006" /></p>
+ <br>
+
+ 
+ ---
+
+
+## Certificate
+<div align = "center"> <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/76e113ab-399b-4fe5-af3b-1c6c7242078b" />
+</div>
+<br />
+
+
+ ---
+
 
 ## 🛠️ Languages and Tools:
 
