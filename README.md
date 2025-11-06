@@ -29,7 +29,14 @@
 
 
 ## Certificate
-<div align = "center"> <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/76e113ab-399b-4fe5-af3b-1c6c7242078b" />
+   **HackerRank Certificates**
+<div align = "center"> 
+ <img width="350" height="250" alt="Haker Rank ( JavaScript Basis)" src="https://github.com/user-attachments/assets/76e113ab-399b-4fe5-af3b-1c6c7242078b" /> 
+ <h3>Java Script (Basics)</h3>
+ 
+ <img width="350" height="250" alt="Haker Ranke(SQL Basics)" src="https://github.com/user-attachments/assets/df09fa14-b6d8-45f2-a30b-bb2b146361a5" />
+ <h3>SQL (Basics) </h3>
+
 </div>
 <br />
 
