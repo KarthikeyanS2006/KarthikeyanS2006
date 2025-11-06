@@ -81,4 +81,8 @@
 <br />
 
 ---
+## RESUME
+[View My Resume ](https://github.com/user-attachments/files/23385305/Resume.2.pdf)
+
+
 
