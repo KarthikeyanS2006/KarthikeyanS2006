@@ -82,7 +82,7 @@
 
 ---
 ## RESUME
-[View My Resume ](https://github.com/user-attachments/files/23385305/Resume.2.pdf)
+[View My Resume ](https://github.com/user-attachments/files/23385305/Karthikeyan_Resume.pdf)
 
 
 
