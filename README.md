@@ -67,14 +67,14 @@
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
   <br/>
-   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=KarthikeyanS2006&theme=dark&ring=FF6B35&fire=FF6B35&stroke=FF6B35&currStreakLabel=FF6B35&border=FF6B35" /></a>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Streak Graph" src="https://github-readme-streak-stats-eight.vercel.app/?user=KarthikeyanS2006&theme=white&ring=FF6B35&fire=FF6B35&stroke=FF6B35&currStreakLabel=FF6B35&border=FF6B35" /></a>
   <br />
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&theme=tokyo-night&custom_title=Karthikeyan's%20Activity%20Graph&color=FF6B35&title_color=FF6B35&line=FF6B35" /></a>
+   <a href="https://github.com/KarthikeyanS2006"><img alt="Karthikeyan Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikeyanS2006&theme=white&custom_title=Karthikeyan's%20Activity%20Graph&color=FF6B35&title_color=FF6B35&line=FF6B35" /></a>
   <br />
 </details>
 
