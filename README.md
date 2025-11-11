@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/KarthikeyanS2006?logo=GitHub&color=FF6B35&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/KarthikeyanS2006?logo=github&color=FF6B35&&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=FF6B35&style=for-the-badge)](https://github.com/KarthikeyanS2006)
@@ -40,6 +39,9 @@
  
  <img width="350" height="250" alt="Haker Ranke(SQL Basics)" src="https://github.com/user-attachments/assets/df09fa14-b6d8-45f2-a30b-bb2b146361a5" />
  <h3>SQL (Basics) </h3>
+
+<img width="350" height="250" alt="Haker Rank (Java Basics)" src="https://github.com/user-attachments/assets/8c1de3ec-652e-4095-be74-22d151fce188" />
+<h3>Java (Basics) </h3>
 
 </div>
 <br />
