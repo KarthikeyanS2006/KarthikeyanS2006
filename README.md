@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/KarthikeyanS2006?logo=GitHub&color=FF6B35&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/KarthikeyanS2006?logo=github&color=FF6B35&&style=for-the-badge)](https://github.com/KarthikeyanS2006) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=FF6B35&style=for-the-badge)](https://github.com/KarthikeyanS2006)
+ [![GitHub profile views](https://komarev.com/ghpvc/?username=KarthikeyanS2006&label=Profile%20views&color=FF6B35&style=for-the-badge)](https://github.com/KarthikeyanS2006)
 
 ## 🔗 Connect with me:
 
@@ -20,7 +20,9 @@
   ---
  <br>
 
- <p align= "center"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="KarthikeyanS2006" /></p>
+ <p align= "cener"> <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikeyanS2006&show_icons=true&locale=en&layout=compact" alt="KarthikeyanS2006" /></p>
+ <a href="https://profile-summary-for-github.com/user/KarthikeyanS2006">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=KarthikeyanS2006&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="KarthikeyanS2006's GitHub stats"/>
  <br>
 
  
@@ -92,6 +94,8 @@
 </details>
 
 <br />
+
+
 
 ---
 ## RESUME
